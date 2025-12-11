@@ -1,0 +1,8 @@
+/home/mohammad/Documents/shell_project/build/CMakeFiles/shell.dir
+/home/mohammad/Documents/shell_project/build/CMakeFiles/test.dir
+/home/mohammad/Documents/shell_project/build/CMakeFiles/edit_cache.dir
+/home/mohammad/Documents/shell_project/build/CMakeFiles/rebuild_cache.dir
+/home/mohammad/Documents/shell_project/build/CMakeFiles/list_install_components.dir
+/home/mohammad/Documents/shell_project/build/CMakeFiles/install.dir
+/home/mohammad/Documents/shell_project/build/CMakeFiles/install/local.dir
+/home/mohammad/Documents/shell_project/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -Wpedantic -Wl,--dependency-file=CMakeFiles/shell.dir/link.d CMakeFiles/shell.dir/src/shell.cpp.o CMakeFiles/shell.dir/src/command_parser.cpp.o CMakeFiles/shell.dir/src/process_manager.cpp.o CMakeFiles/shell.dir/src/builtin_commands.cpp.o -o shell
