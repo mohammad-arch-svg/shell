@@ -418,11 +418,20 @@
             <pre><code id="install-code"># Clone the repository
 git clone https://github.com/mohammad-arch-svg/shell
 
-# Navigate to directory
-cd shell
+# Clone and navigate to the project directory
+cd shell_project
+
+# Create build directory
+mkdir build && cd build
+
+# Configure with CMake
+cmake ..
+
+# Build the project
+make -j$(nproc)
 
 # Run the shell
-bash ./build_and_demo.sh
+./shell
 </code></pre>
         </div>
     </section>
